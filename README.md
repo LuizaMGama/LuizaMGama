@@ -5,12 +5,8 @@
   <br>
 - "É preciso ter o caos dentro de si para dar a luz à uma estrela dançante." - Friedrich Nietzsche🌟
   <br>
-## 
-  ###  📧 Conecte-se comigo:
-  [![Gmail](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=7300AB)](luizamgama11@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=7300AB)](https://www.linkedin.com/in/luiza-gama-3274a1254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=7300AB)](https://www.instagram.com/gama.luh?igsh=MWp5ZjIxZWt3MnE1Ng==)
- <br>
+ ##
+ ### 📧 Conecte-se comigo:
 
 ## 
   ### 💻  Tecnologias que estou aprendendo:
