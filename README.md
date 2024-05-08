@@ -5,9 +5,6 @@
   <br>
 - "É preciso ter o caos dentro de si para dar a luz à uma estrela dançante." - Friedrich Nietzsche🌟
   <br>
- ##
- ### 📧 Conecte-se comigo:
-
 ## 
   ### 💻  Tecnologias que estou aprendendo:
 
